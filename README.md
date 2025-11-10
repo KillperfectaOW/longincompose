@@ -1,1 +1,1 @@
-https://account.jetbrains.com/github/oauth/intellij/authorize?code_challenge=g9a7eG%2FByiA%2FMtVzjicMLzD4gIB8PpbvA2%2BYtXgJEYk%3D&callback_url=http%3A%2F%2F127.0.0.1%3A63342%2Fapi%2Fgithub%2Foauth%2Fauthorization_code
+https://www.figma.com/design/0CC4BAiLr8chU6ONjYQVLP/Login-Page-design--Community-?node-id=0-1&t=76MPZw0ivcJdtVAa-1
